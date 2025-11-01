@@ -1,5 +1,5 @@
 
-this is the first version
+this is the text added by the cloned workspace
 
 edit exercise 1.3
 
