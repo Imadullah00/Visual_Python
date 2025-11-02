@@ -6,4 +6,10 @@ edit exercise 1.3
 edit from the github...should be pulled.
 
 
+<<<<<<< HEAD
+
+
 new branch text
+
+new new branch text
+
