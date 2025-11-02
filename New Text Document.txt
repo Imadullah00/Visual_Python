@@ -1,9 +1,4 @@
 user 2 second 
 
 user 1 first
--------------------------------------
 
-
-user 1 first again
-
-user 2 second again
