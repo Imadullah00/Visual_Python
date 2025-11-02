@@ -8,11 +8,4 @@ edit from the github...should be pulled.
 
 new branch text
 
-my text from user 1 later
-
-
-my text from user2
-
-user 2 first
-
 
