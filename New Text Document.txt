@@ -1,6 +1,6 @@
 user1 - 1 - 
 
-user 2 -1 
+user 2 -1 -new
 
 user 1-2
 
