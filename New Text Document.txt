@@ -6,9 +6,10 @@ edit exercise 1.3
 edit from the github...should be pulled.
 
 
-
 new branch text
 
 my text from user 1 later
 
+
+my text from user2
 
